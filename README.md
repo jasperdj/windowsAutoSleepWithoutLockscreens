@@ -3,8 +3,9 @@
 This is what you need if you want to setup your windows PC to be a monitor or a dashboard display.
 
 ## Rookie mistakes
-1. Do not use windows Task Scheduler as an alternative method. This is often bugged in Windows 7+. You should take my word for it.
+1. Do not use windows Task Scheduler as an alternative method. This is often bugged in Windows 7+. As the `old` directory shows any approach with `nircmd.exe` or `power shell`. 
 2. Not having administration rights on the host. 
+3. Any
 
 ## Steps
 1. **Schedule your pc to sleep/wake:** Install kmwakeup_16_setup.exe and add timers to sleep and wake.
