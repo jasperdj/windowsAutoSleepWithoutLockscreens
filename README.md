@@ -1,6 +1,6 @@
 # HOW TO: Make your windows 10 device sleep and wake up without a lock screen. 
 
-This is what you need if you want to setup your windows PC to be a monitor display.
+This is what you need if you want to setup your windows PC to be a monitor or a dashboard display.
 
 ## Rookie mistakes
 1. Do not use windows Task Scheduler as an alternative method. This is often bugged in Windows 7+. You should take my word for it.
